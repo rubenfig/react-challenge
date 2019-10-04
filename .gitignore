@@ -1,0 +1,13 @@
+# bundle files
+bundle.js
+bundle.js.map
+node_modules
+.DS_Store
+.vscode
+.env
+env.json
+*.key
+.idea/
+
+
+
